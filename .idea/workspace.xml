@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a24fc67c-6f11-4bac-9320-aaaff10b5c9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a24fc67c-6f11-4bac-9320-aaaff10b5c9d" name="Changes" comment="Вспоминаем ООП" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654619489483</updated>
     </task>
+    <task id="LOCAL-00001" summary="Вспоминаем ООП">
+      <created>1654631356253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654631356253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Вспоминаем ООП" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вспоминаем ООП" />
   </component>
 </project>
