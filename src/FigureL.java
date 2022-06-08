@@ -33,7 +33,7 @@ interface BookPrintable extends Printable - наследование интер�
 */
 
 
-public class Figure {
+public class FigureL {
     int a;
     int b;
     int c;
@@ -44,9 +44,9 @@ public class Figure {
         c = 0;
     }
 
-    public Figure(){}
+    public FigureL(){}
 
-    public Figure(int a, int b, int c){
+    public FigureL(int a, int b, int c){
         this.a = a;
         this.b = b;
         this.c = c;
@@ -63,14 +63,14 @@ public class Figure {
     }
 
     public static void main(String[] args) {
-        Figure kvadro = new Figure();
+        FigureL kvadro = new FigureL();
         kvadro.walk();
         Multiangle noie = new Multiangle(1,2,3);
         noie.walk();
     }
 }
 
-class Multiangle extends Figure{
+class Multiangle extends FigureL{
 
     public Multiangle(){
     }
